@@ -1,1 +1,1 @@
-# mechanic-special
+A [mechanic special](https://mechanicspecial.com/) is essentially a car that's gone through a lot. It may have been involved in an accident or it may have a collection of problems that makes it difficult to drive.
